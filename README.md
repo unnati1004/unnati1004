@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
 </p>
-<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
+<h3>- <i> Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Unnati1004&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
